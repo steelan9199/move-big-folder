@@ -3,7 +3,7 @@ name: move-big-folder
 description: 将 C 盘大文件夹迁移到其他盘（D/E/F等），通过符号链接保持原路径可用，释放 C 盘空间。当用户提到 C 盘空间不足、C 盘变红、迁移大文件夹、释放 C 盘空间、软链接迁移时使用此技能。Use when user mentions C drive full, move large folder, free up C drive space, symlink migration.
 ---
 
-# C 盘大文件夹迁移助手
+# C 盘大文件夹迁移助手123123123
 
 > 帮助用户将 C 盘中的大文件夹安全迁移到其他盘，通过**符号链接**让所有程序照常运行，无感释放 C 盘空间。
 
